@@ -8,7 +8,7 @@ double multiply(double a, double b) {
 
 
 4
-
+56+45
 
 int main() {
     // Get user input for two numbers
