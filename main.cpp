@@ -7,7 +7,7 @@ double multiply(double a, double b) {
 }
 
 
-
+4
 
 
 int main() {
